@@ -36,3 +36,8 @@ C:\Users\amu15203\Desktop\SegundoObligatorio1.6\SegundoObligatorio1.6\bin\Debug\
 C:\Users\amu15203\Desktop\SegundoObligatorio1.6\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.csprojResolveAssemblyReference.cache
 C:\Users\amu15203\Desktop\SegundoObligatorio1.6\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.exe
 C:\Users\amu15203\Desktop\SegundoObligatorio1.6\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.pdb
+C:\Users\amu15203\Desktop\SegundoObligatorio1.7\SegundoObligatorio1.6\bin\Debug\SegundoObligatorioAlpha.exe
+C:\Users\amu15203\Desktop\SegundoObligatorio1.7\SegundoObligatorio1.6\bin\Debug\SegundoObligatorioAlpha.pdb
+C:\Users\amu15203\Desktop\SegundoObligatorio1.7\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.csprojResolveAssemblyReference.cache
+C:\Users\amu15203\Desktop\SegundoObligatorio1.7\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.exe
+C:\Users\amu15203\Desktop\SegundoObligatorio1.7\SegundoObligatorio1.6\obj\x86\Debug\SegundoObligatorioAlpha.pdb
