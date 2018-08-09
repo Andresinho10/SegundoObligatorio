@@ -19,3 +19,9 @@ C:\Users\amu15203\Desktop\SegundoObligatorio1.4\SegundoObligatorio1.0\bin\Debug\
 C:\Users\amu15203\Desktop\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.csprojResolveAssemblyReference.cache
 C:\Users\amu15203\Desktop\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.exe
 C:\Users\amu15203\Desktop\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.pdb
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\bin\Debug\SegundoObligatorioAlpha.exe
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\bin\Debug\SegundoObligatorioAlpha.pdb
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.csprojAssemblyReference.cache
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.exe
+C:\Users\Andy\Desktop\SegundoObligatorio1.0\SegundoObligatorio1.5\SegundoObligatorio1.4\SegundoObligatorio1.0\obj\x86\Debug\SegundoObligatorioAlpha.pdb

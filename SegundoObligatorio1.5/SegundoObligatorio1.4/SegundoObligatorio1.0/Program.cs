@@ -166,11 +166,12 @@ namespace SegundoObligatorioAlpha
                                                                 
                                                                 Console.Write("\n\tElija la Categoria de la Tarjeta: ");
                                                                 Console.Write("\n\t1- Clasica");
-                                                                Console.Write("\n\t2- Oro");
-                                                                Console.WriteLine("\n\t3- Platinium");
+                                                                Console.Write("\n\t2- Plata");
+                                                                Console.Write("\n\t3- Oro");
+                                                                Console.WriteLine("\n\t4- Platinium");
                                                                 string opcion2 = Console.ReadLine();
                                                                 switch (opcion2)
-                                                               {
+                                                                {
                                                                     case "1":
                                                                 		categoria = "Clasica";
                                                                 Console.WriteLine("Usted a elegido {0}", categoria);
@@ -187,17 +188,17 @@ namespace SegundoObligatorioAlpha
                                                                       categoria = "Oro";
                                                                 Console.WriteLine("Usted a elegido {0}", categoria);
                                                                 cliente.AgregarCredito(true,categoria);
-                                                                
+                                                                break;
                                                                    case "4":
                                                                       categoria = "Platinium";
                                                                 Console.WriteLine("Usted a elegido {0}", categoria);
                                                                 cliente.AgregarCredito(true,categoria);
                                                                 break;
                                                                 
-                                                               }
+                                                                }
                                                                 
  
-                                                              }
+                                                            }
                                                      }
 
                                              }
